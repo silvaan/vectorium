@@ -1,0 +1,10 @@
+build
+dist
+vectorium.egg-info/
+**/__pycache__/
+*.ipynb
+db/
+test/
+examples/
+!examples/mnist.py
+publish.sh
