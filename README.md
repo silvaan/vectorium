@@ -11,8 +11,11 @@ This Python package provides a simple and flexible interface for creating, manip
 
 ## Installation
 
-This package is not yet available on PyPi. Please clone this repository to your local machine and import the `VectorDatabase` class.
+You can install Vectorium using pip:
 
+```shell
+pip install vectorium
+```
 ## Usage
 
 This is a brief example of how to use the `VectorDatabase` class:
